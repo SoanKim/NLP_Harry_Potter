@@ -1,4 +1,3 @@
 # NLP_Harry_Potter
 
-Sentiment analysis by chapter & sentence
-Enetity anlalysis
+Sentiment analysis by chapter & sentence and enetity anlalysis
