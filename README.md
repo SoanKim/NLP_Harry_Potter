@@ -1,6 +1,6 @@
 # NLP_Harry_Potter
 
-This is the results of my sentiment analysis by chapter/sentence and enetity anlalysis just for fun.</br></br>
+This is the result of my doc2vec analysis by chapter, by sentence and enetity anlalysis.</br></br>
 ### Sentiment Analysis by Chapter
 ![alt text](https://github.com/SoanKim/NLP_Harry_Potter/blob/main/sentiment_anal_by_chapter.png)</br>
 
